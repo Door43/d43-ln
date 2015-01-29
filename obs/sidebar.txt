@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[ln:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>ln:obs:stories}}
+  * [[ln:home|Door43 (ln)]]
 
+**Resources**
+
+  * [[ln:obs|Open Bible Stories (ln)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ln|d43-ln repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ln/archive/master.zip|d43-ln.zip]]
+
+**Recent Changes**
+{{changes>ns = ln}}
 
 **Latest Status**
 {{page>en:uwadmin:ln:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ln|Ethnologue data]]
+
+**Resources**
+
+  * [[ln:obs|Open Bible Stories (ln)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:ln:obs:status}}
