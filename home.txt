@@ -1,12 +1,12 @@
 ====== Door43 (ln) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+Mbote na Door43! Obanga te kobongisa page oyo na nkota na yo. Makambo mosusu likolo na kobanda ezuami awa.
+
+Welcome to Door43! Please feel free to [[:ln:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
 
 ===== Resources =====
 
-  * **[[ln:obs|Open Bible Stories (ln)]]**
-
-
+  * **[[:ln:obs|Open Bible Stories (ln)]]**
 ===== Resources =====
 
-  * **[[ln:obs|Open Bible Stories (ln)]]**
+  * **[[:ln:obs|Open Bible Stories (ln)]]**
