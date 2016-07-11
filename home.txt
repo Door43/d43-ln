@@ -1,6 +1,6 @@
 ====== Door43 (ln) ======
 
-Mbote na Door43! Obanga te kobongisa page oyo na nkota na yo. Makambo mosusu likolo na kobanda ezuami awa.
+Mbote na Door43! Obanga te [[:ln:home?do=edit|kobongisa]] page oyo na nkota na yo. Makambo mosusu likolo na kobanda ezuami [[:ln:get-started|awa]].
 
 Welcome to Door43! Please feel free to [[:ln:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
 
